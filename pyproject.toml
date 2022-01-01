@@ -6,7 +6,6 @@ authors = ["Elia Robyn Lake <gh@arborelia.net>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-python-twitter-v2 = "^0.7.2"
 tweepy = "^4.4.0"
 
 [tool.poetry.dev-dependencies]
