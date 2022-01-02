@@ -1368,7 +1368,7 @@ Pooh rubbed his nose and said that he thought Rabbit had been talking about his 
 "Oh, I see," said Pooh.
 -
 "The best way," said Rabbit, "would be this. The best way would be to steal Baby Roo and hide him, and then when Kanga says, 'Where's Baby Roo?' we say, 'Aha!'"
-
+-
 "Aha!" said Pooh, practising. "Aha! Aha! . . . Of course," he went on, "we could say 'Aha!' even if we hadn't stolen Baby Roo."
 -
 "Pooh," said Rabbit kindly, "you haven't any brain."
@@ -2318,11 +2318,11 @@ on such a day as this Christopher Robin whistled in a special way he had, and Ow
 "And it's to be a special sort of party, because it's because of what Pooh did when he did what he did to save Piglet from the flood."
 
 "Oh, that's what it's for, is it?" said Owl.
-
-"Yes, so will you tell Pooh as quickly as you can, and all the others, because it will be to-morrow."
 -
-"Oh, it will, will it?" said Owl, still being as helpful as possible.
+"Yes, so will you tell Pooh as quickly as you can, and all the others, because it will be to-morrow."
 
+"Oh, it will, will it?" said Owl, still being as helpful as possible.
+-
 "So will you go and tell them, Owl?"
 
 Owl tried to think of something very wise to say, but couldn't, so he flew off to tell the others. And the first person he told was Pooh.
